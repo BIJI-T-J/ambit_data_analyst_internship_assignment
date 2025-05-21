@@ -2,6 +2,7 @@
 In this project we analyse MIS data of a company from 2006 to 2025 and create interactive and insight building dashboard using PowerBI.
 ### 1. Highest leaves by an Analyst in the between Sep 2008 - Mar 2013?
 * The analyst with most number of 0 minute spent is the analyst with highest leaves. So the analyst with most leaves is 'Kaoru Hanayama'.
+
 ![Screenshot (1183)](https://github.com/user-attachments/assets/da001875-c7a9-4bf2-9999-fd7c1af99699)
 # 
 ### 2. Least Revenue Contribution from a Sales representative between Jan 2020 to Dec 2020?
