@@ -14,9 +14,9 @@ In this project we analyse MIS data of a company from 2006 to 2025 and create in
 
 ### 4. Which client preferred the "Zoom meetings" the most?
 * Client 'Naruto' in India with code A1B2C preferred most zoom meetings.
-![Screenshot (1180)](https://github.com/user-attachments/assets/7516c84e-9ad6-4456-8f14-cb8bfa8f6ce6)
+![Screenshot (1180)](https://github.com/user-attachments/assets/0e4306ac-1a75-47ad-bee9-8af8b0a8cad3)
 
 ### 5. Which city contribute the highest Revenue between Jun22 to Mar 25?
 * Singapore contribute the highest Revenue between Jun22 to Mar 25.
-![Screenshot (1181)](https://github.com/user-attachments/assets/88c60445-b964-4a7a-8f8a-6001c153d21d)
+![Screenshot (1181)](https://github.com/user-attachments/assets/8ab44085-f977-465b-9492-f94b5782dca1)
 
